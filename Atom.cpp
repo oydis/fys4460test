@@ -1,10 +1,9 @@
 #include "Atom.h"
 
-
-
+// test
 Atom::Atom()
 {
-
+     
 }
 
 vec Atom::getPosition()
